@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats-ebon-chi-70.vercel.app/api/top-langs?username=luis-abeno&show_icons=true&locale=en&layout=compact" alt="luis-abeno" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-ebon-chi-70.vercel.app/api?username=luis-abeno&show_icons=true&locale=en&private=true" alt="luis-abeno" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-ebon-chi-70.vercel.app/api?username=luis-abeno&show_icons=true&locale=en&private=true&include_all_commits=true&hide=stars,contribs" alt="luis-abeno" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luis-abeno&" alt="luis-abeno" /></p>
 
